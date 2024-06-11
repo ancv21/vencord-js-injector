@@ -12,3 +12,8 @@ The user must have Vencord installed for this to work, and the injected JS will 
 2) Change the variable of what code you want to run
 3) Build it / Run it
 4) Relaunch Discord :)
+
+# Is this flagged?
+
+No, this is unflagged/undetected by most Anti-Virus programs including Windows Defender. There are some flags, but they are linked mainly to false positives of other programs.
+You can see the VirusTotal link to the built exe in this repo: https://www.virustotal.com/gui/file/643017a6de50b66924ae49d95b9b890e46f68053f86829417ee6e98365b800ba?nocache=1
